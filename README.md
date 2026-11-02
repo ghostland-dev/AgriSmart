@@ -1,30 +1,29 @@
-# Agricultural Platform
+# AgriSmart
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Smart agriculture platform for farm management and crop monitoring.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sumamoymoy-gmailcoms-projects/v0-agricultural-platform)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/tKqGsTY5pKJ)
+## Features
 
-## Overview
+- Crop, task and supplier management
+- Weather, analytics and reports
+- Traceability module
+- AI advisor page and full auth flow
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Tech Stack
 
-## Deployment
+- shadcn/ui (Radix UI)
 
-Your project is live at:
+## Getting Started
 
-**[https://vercel.com/sumamoymoy-gmailcoms-projects/v0-agricultural-platform](https://vercel.com/sumamoymoy-gmailcoms-projects/v0-agricultural-platform)**
+```bash
+git clone https://github.com/ghostland-dev/agri-smart.git
+cd agri-smart
+npm install
+```
 
-## Build your app
+## Author
 
-Continue building your app on:
+**Ismail.M**, Software Engineer & DevOps
 
-**[https://v0.app/chat/projects/tKqGsTY5pKJ](https://v0.app/chat/projects/tKqGsTY5pKJ)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
